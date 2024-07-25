@@ -1,0 +1,63 @@
+.parentdiv{
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+
+
+.container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #C0D9D0;
+  }
+  
+  .input-div {
+    margin-bottom: 10px;
+
+  }
+  
+  #textInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+  }
+  
+  #task-list {
+    margin-top: 10px;
+  }
+  
+  .task-item {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    background-color: #e9ecef;
+  }
+  
+  .button {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  button {
+    padding: 10px 30px;
+    font-size: large;
+    background-color: #1F5F53;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #4a806f;
+    
+  }
+  
